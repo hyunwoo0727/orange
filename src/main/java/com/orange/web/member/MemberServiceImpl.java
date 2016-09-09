@@ -1,5 +1,5 @@
 package com.orange.web.member;
 
-public class MemberServiceImpl {
+public class MemberServiceImpl implements MemberService {
 
 }
